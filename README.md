@@ -122,10 +122,15 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
+
 <img width="754" height="757" alt="Screenshot 2025-10-07 091846" src="https://github.com/user-attachments/assets/29ee79af-4bf7-4407-b913-471437d60131" />
 
 
 $ ipcs
+
+
+
 <img width="833" height="188" alt="image" src="https://github.com/user-attachments/assets/ecc29482-420f-4210-8c99-3ab5e703c059" />
 
 
